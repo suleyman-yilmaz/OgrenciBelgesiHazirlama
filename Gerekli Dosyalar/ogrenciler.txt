@@ -1,0 +1,5 @@
+603567008#Volkan#Çalışkan#33344455566#Teknik Bilimler M.Y.O.#Bilgisayar Programcılığı#1
+603568011#Damla#Öncü#33322255566#Teknik Bilimler M.Y.O.#Elektronik#2
+603561204#Nimet#Duru#77744455566#Mühendislik Fakültesi#Çevre Mühendisliği#1
+603567002#Mehmet Ali#Kıvılcım#33344411166#Teknik Bilimler M.Y.O.#Bilgisayar Programcılığı#1
+603561710#Deniz#Birinci#33344455522#Mühendislik Fakültesi#Jeoloji Mühendisliği#2
